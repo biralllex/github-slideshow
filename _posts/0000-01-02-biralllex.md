@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I do not understand any memes!
 Use the left arrow to go back!
